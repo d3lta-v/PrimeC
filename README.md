@@ -1,6 +1,7 @@
 PrimeC
-A Simple C Implementation of Calculation of Prime Numbers
 ---------------------------------------------------------
+A Simple C Implementation of Calculation of Prime Numbers
+
 To compile simply type:
 
 ```
